@@ -24,6 +24,4 @@ function deepestChild() {
   }
 
   return node;
-  }
-
 }  
